@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499107671069",
+    "project_id": "nesnetanimaapp",
+    "storage_bucket": "nesnetanimaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499107671069:android:a8e738edf2b87576fe6af4",
+        "android_client_info": {
+          "package_name": "com.nesnetanimaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499107671069-vmfmeql81567qomcti85n6h8ai4sho94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6xvfFCc0a6NFjzFxTcoKnp8A4-l1CKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499107671069-vmfmeql81567qomcti85n6h8ai4sho94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
